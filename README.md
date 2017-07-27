@@ -11,10 +11,6 @@ This module is compatible to Magento 2.1.7
 ## Installing/Getting started
 *A quick introduction of the minimal setup you need to get a hello world up & running.*
 
-If you want to install Aimeos into your existing TYPO3 installation, the Aimeos extension from the TER is recommended. You can download and install it directly from the Extension Manager of your TYPO3 instance.
-
-For new TYPO3 installations, there's a 1-click Aimeos distribution available too. Choose the Aimeos distribution from the list of available distributions in the Extension Manager and you will get a completely set up shop system including demo data for a quick start.
-
 ## Developing
 *A brief intro about what a developer must do in order to start developing the project further.*
 
@@ -54,4 +50,4 @@ This module respects all Magento2 code quality rules and our own PHPCS and PHPMD
 
 Founded in 2008 in Poland, Divante delivers high quality e-business solutions. They support their clients in creating customized Omnichannel and eCommerce platforms, with expertise in CRM, ERP, PIM, custom web applications, and Big Data solutions. With 180 employees on board, Divante provides software expertise and user-experience design. Their team assists companies in their development and optimization of new sales channels by implementing e-commerce solutions, integrating systems, and designing and launching marketing campaigns.
 
-Visit our website for more information [Divante.co](https://divante.co/ "Divante.co")
+Visit our website for more information [Divante.co](https://divante.co/ "Divante.co").
