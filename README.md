@@ -22,9 +22,9 @@ Open Loyalty is technology for loyalty solutions. It's a loyalty platform in ope
 	- [About Authors](#)
 
 ## Compatibility
-*What is the module compatible to?*
+*What is the module compatible with?*
 
-This module is compatible to Magento 2.1.7
+This module is compatible with Magento 2.1.7
 
 ## Installing/Getting started
 *A quick introduction of the minimal setup you need to get a hello world up & running.*
@@ -39,7 +39,7 @@ This module is compatible to Magento 2.1.7
 *In case there's some step you have to take that publishes this project to a server, this is the right time to state it.*
 
 ## Features
-*What's all the features this project can perform?*
+*What're all the features this project can perform?*
 
 ### Feature 1
 ### Feature 2
@@ -66,6 +66,6 @@ This module respects all Magento2 code quality rules and our own PHPCS and PHPMD
 
 ![Divante-logo](http://divante.co/wp-content/uploads/2017/07/divante-logo.png "Divante")
 
-Founded in 2008 in Poland, Divante delivers high quality e-business solutions. They support their clients in creating customized Omnichannel and eCommerce platforms, with expertise in CRM, ERP, PIM, custom web applications, and Big Data solutions. With 180 employees on board, Divante provides software expertise and user-experience design. Their team assists companies in their development and optimization of new sales channels by implementing e-commerce solutions, integrating systems, and designing and launching marketing campaigns.
+Founded in 2008 in Poland, Divante delivers high-quality e-business solutions. They support their clients in creating customized Omnichannel and eCommerce platforms, with expertise in CRM, ERP, PIM, custom web applications, and Big Data solutions. With 180 employees on board, Divante provides software expertise and user-experience design. Their team assists companies in their development and optimization of new sales channels by implementing e-commerce solutions, integrating systems, and designing and launching marketing campaigns.
 
 Visit our website for more information [Divante.co](https://divante.co/ "Divante.co").
