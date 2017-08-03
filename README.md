@@ -66,6 +66,6 @@ This module respects all Magento2 code quality rules and our own PHPCS and PHPMD
 
 ![Divante-logo](http://divante.co/wp-content/uploads/2017/07/divante-logo.png "Divante")
 
-Founded in 2008 in Poland, Divante delivers high-quality e-business solutions. They support their clients in creating customized Omnichannel and eCommerce platforms, with expertise in CRM, ERP, PIM, custom web applications, and Big Data solutions. With 180 employees on board, Divante provides software expertise and user-experience design. Their team assists companies in their development and optimization of new sales channels by implementing e-commerce solutions, integrating systems, and designing and launching marketing campaigns.
+Founded in 2008 in Poland, Divante delivers high-quality e-business solutions. They support their clients in creating customized Omnichannel and eCommerce platforms, with expertise in CRM, ERP, PIM, custom web applications, and Big Data solutions. With 180 employees on board, Divante provides software expertise and user-experience design. Their team assists companies in their development and optimization of new sales channels by implementing eCommerce solutions, integrating systems, and designing and launching marketing campaigns.
 
 Visit our website [Divante.co](https://divante.co/ "Divante.co") for more information.
