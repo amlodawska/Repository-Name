@@ -64,7 +64,7 @@ This module respects all Magento2 code quality rules and our own PHPCS and PHPMD
 ## About Authors
 
 
-![Divante-logo](http://divante.co/about us/LOGO.png "Divante")
+![Divante-logo](http://divante.co//LOGO.png "Divante")
 
 We are a Software House from Europe, headquartered in Poland and employing about 150 people. Our core competencies are built around Magento, Pimcore and bespoke software projects (we love Symfony3, Node.js, Angular, React, Vue.js). We specialize in sophisticated integration projects trying to connect hardcore IT with good product design and UX.
 
