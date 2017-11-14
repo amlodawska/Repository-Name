@@ -70,4 +70,6 @@ We are a Software House from Europe, existing from 2008 and employing about 150 
 
 We work for Clients like INTERSPORT, ING, Odlo, Onderdelenwinkel or CDP, the company that produced The Witcher game. We develop two projects: [Open Loyalty](http://www.openloyalty.io/ "Open Loyalty") - loyalty program in open source and [Vue.js Storefront](https://github.com/DivanteLtd/vue-storefront "Vue.js Storefront").
 
+We have been operating since 2008 and we are part of the OEX Group which is listed on the Warsaw Stock Exchange. Our annual revenue has been growing at a minimum of about 30% year on year.
+
 Visit our website [Divante.co](https://divante.co/ "Divante.co") for more information.
